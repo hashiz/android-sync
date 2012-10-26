@@ -22,3 +22,7 @@ local.properties
 bin
 gen
 .settings
+.vagrant
+puppet/modules/data/files/*.gz
+puppet/modules/data/files/*.tgz
+puppet/modules/data/files/*.zip
